@@ -1,0 +1,2 @@
+# hokkaido-forest-sample
+北海道の森林計画関係資料オープンデータをPortolan仕様で整備した際の仕様書
